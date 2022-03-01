@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @uusander
 - 👀 interest.
 - 🌱 learning
 - 💞️ oking
